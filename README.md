@@ -1,2 +1,3 @@
 # PhishStopper
-Tool to analyze phishing links and report them automatically.
+Analyze phishing links and generate professional abuse reports.
+
